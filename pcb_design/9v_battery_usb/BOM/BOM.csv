@@ -1,0 +1,14 @@
+Reference, Quantity, Value, Footprint, MPN,Price,Total Price,Part Page
+CFB1 ,1,18pF,VJ0805A180JXQPW1BC:CAPC2012X70N,VJ0805A180JXQPW1BC,$0.20,$0.20,https://bit.ly/3l6d9qv
+CL1 ,1,22uF,12063D226KAT2A:CAPC3216X229N,12063D226KAT2A,$1.13,$1.13,https://bit.ly/3eAiXai
+Cin1 ,1,4.7uF,12065D475KAT2A:CAPC3216X178N,12065D475KAT2A,$0.44,$0.44,https://bit.ly/3rEd4g5
+D1 ,1,HSMA-C120,HSMA-C120:0603,HSMA-C120,$0.55,$0.55,https://bit.ly/2N7brZt
+Rd1 ,1,1K,ERJ-1GEF1001C:RESC0603X26N,ERJ-1GEF1001C,$0.10,$0.10,https://bit.ly/3l5okzx
+Rfb1 ,1,680K,ERA-8AEB684V:RESC3216X70N,ERA-8AEB684V,$0.57,$0.57,https://bit.ly/3bzMpvm
+Rfb2 ,1,120K,ERA-3AEB124V:RESC1608X55N,ERA-3AEB124V,$0.31,$0.31,https://bit.ly/3etOfj5
+S1 ,1,EG1213,EG1213:SW_EG1213,EG1213,$0.65,$0.65,https://bit.ly/3epgQGx
+U1 ,1,MYRGC,MYRGC_v01:MYRGC_v01,MYRGC075050R31RA,$1.65,$1.65,https://bit.ly/2OkjGSs
+USB_port1 ,1,UJ2-AH-1-SMT,UJ2-AH-1-SMT:CUI_UJ2-AH-1-SMT,UJ2-AH-1-SMT-TR,$1.28,$1.28,https://bit.ly/3l4J36E
+V+1 ,1,Positive,Battery_contact:BatteryContact_Keystone_269,269,$0.19,$0.19,https://bit.ly/3bALpqJ
+V-1 ,1,Negative,Battery_contact:BatteryContact_Keystone_261,261,$0.10,$0.10,https://bit.ly/30wiXjB
+,,,,,Total cost,$7.17,
