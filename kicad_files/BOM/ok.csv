@@ -1,0 +1,13 @@
+Reference, Quantity, Value, Footprint, Datasheet, MANUFACTURER, PARTREV, STANDARD, A_MAX, A_MIN, A_NOM, D_MAX, D_MIN, D_NOM, E_MAX, E_MIN, E_NOM, L1_MAX, L1_MIN, L1_NOM, L_MAX, L_MIN, L_NOM
+CFB1 ,1,"18uF","VJ0805A180JXQPW1BC:CAPC2012X70N","","Vishay","","IPC 7351B","0.7","0.7","0.7","2.15","1.85","2.0","1.35","1.15","1.25","0.7","0.3","0.5","0.7","0.3","0.5"
+CL1 ,1,"22uF","12063D226KAT2A:CAPC3216X229N",""
+Cin1 ,1,"4.7uF","12065D475KAT2A:CAPC3216X178N",""
+D1 ,1,"HSMA-C120","HSMA-C120:0603",""
+Rd1 ,1,"1K","ERJ-1GEF1001C:RESC0603X26N","~"
+Rfb1 ,1,"680K","ERA-8AEB684V:RESC3216X70N","~"
+Rfb2 ,1,"120K","ERA-3AEB124V:RESC1608X55N","~"
+S1 ,1,"EG1213","EG1213:SW_EG1213","","E-Switch","","","","","","","","","","","","","","","","",""
+U1 ,1,"MYRGC","MYRGC_v01:MYRGC_v01",""
+USB_port1 ,1,"UJ2-AH-1-SMT","UJ2-AH-1-SMT:CUI_UJ2-AH-1-SMT","","CUI","1.01","Manufacturer recommendation","","","","","","","","","","","","","","",""
+V+1 ,1,"Positive","Battery_contact:BatteryContact_Keystone_269",""
+V-1 ,1,"Negative","Battery_contact:BatteryContact_Keystone_261",""

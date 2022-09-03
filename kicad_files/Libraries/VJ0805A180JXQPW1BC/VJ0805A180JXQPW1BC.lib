@@ -1,0 +1,38 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# VJ0805A180JXQPW1BC
+#
+DEF VJ0805A180JXQPW1BC C 0 40 Y N 1 L N
+F0 "C" 0 150 50 H V L BNN
+F1 "VJ0805A180JXQPW1BC" 0 -200 50 H V L BNN
+F2 "CAPC2012X70N" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "0.3" 0 0 50 H I L BNN "L1_MIN"
+F5 "0.7" 0 0 50 H I L BNN "A_NOM"
+F6 "0.5" 0 0 50 H I L BNN "L1_NOM"
+F7 "0.7" 0 0 50 H I L BNN "A_MIN"
+F8 "1.35" 0 0 50 H I L BNN "E_MAX"
+F9 "1.15" 0 0 50 H I L BNN "E_MIN"
+F10 "0.7" 0 0 50 H I L BNN "A_MAX"
+F11 "0.7" 0 0 50 H I L BNN "L1_MAX"
+F12 "2.0" 0 0 50 H I L BNN "D_NOM"
+F13 "1.25" 0 0 50 H I L BNN "E_NOM"
+F14 "0.7" 0 0 50 H I L BNN "L_MAX"
+F15 "1.85" 0 0 50 H I L BNN "D_MIN"
+F16 "0.5" 0 0 50 H I L BNN "L_NOM"
+F17 "2.15" 0 0 50 H I L BNN "D_MAX"
+F18 "IPC 7351B" 0 0 50 H I L BNN "STANDARD"
+F19 "0.3" 0 0 50 H I L BNN "L_MIN"
+F20 "Vishay" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S 0 -75 25 75 0 0 0 F
+S 75 -75 100 75 0 0 0 F
+X ~ 2 200 0 100 L 40 40 0 0 P 
+X ~ 1 -100 0 100 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library
